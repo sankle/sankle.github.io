@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to my Computer Science PhD journey at Northwestern University!
+Excited to start my Computer Science PhD journey at Northwestern University!
