@@ -5,7 +5,7 @@
     "image": "",
     "email": "santiagoklein@u.northwestern.edu",
     "url": "https://sankle.github.io",
-    "summary": "An Argentine-born computer enigneering, currently pursuing a PhD in Computer Science at Northwestern University.",
+    "summary": "An Argentine-born computer enigneer, currently pursuing a PhD in Computer Science at Northwestern University.",
     "location": {
       "address": "Mudd Hall, Room 3416, 2233 Tech Dr 3rd Floor",
       "postalCode": "IL 60208",
@@ -22,7 +22,7 @@
       "url": "https://www.northwestern.edu/",
       "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "2024-09-24",
+      "startDate": "2024-09",
       "endDate": "present"
     },
     {
@@ -30,9 +30,9 @@
       "location": "Buenos Aires, Argentina",
       "url": "https://www.fi.uba.ar/",
       "area": "Computer Engineering",
-      "studyType": "BS + MS",
-      "startDate": "2017",
-      "endDate": "2024"
+      "studyType": "BS + MS in Distributed Systems",
+      "startDate": "2017-04",
+      "endDate": "2024-10"
     }
   ],
   "work": [
@@ -42,8 +42,7 @@
       "url": "https://www.mulesoft.com/",
       "startDate": "2021-04",
       "endDate": "2024-08",
-      "summary": "Full Stack Software Engineer in MuleSoft Anypoint Platform's API Manager Team. Developing microservices that handle 1M req/s. Contributed to the control plane adaptation to manage the new Flex Gateway, and the ground-zero deployment of all team managed services in Hyperforce, an AWS-based Salesforce's abstraction.",
-      "highlights": ["JavaScript (React/Node)", "Java", "PostgreSQL", "AWS", "Docker", "Kubernetes", "Istio", "Redis", "Kafka", "Jenkins", "Spinnaker"]	
+      "summary": "Full Stack Software Engineer in MuleSoft Anypoint Platform's API Manager Team. Developing microservices that handle more than 1M req/s. Contributed to the control plane adaptation to manage the new Flex Gateway, and the ground-zero deployment of all team managed services in Hyperforce, an AWS-based Salesforce's abstraction.",
     }
   ]
 }
