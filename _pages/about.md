@@ -18,4 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a first year PhD student at [Northwestern University](https://www.northwestern.edu), working in [AquaLab](https://aqualab.cs.northwestern.edu), advised by [Prof. Fabián E. Bustamante](https://users.cs.northwestern.edu/~fabianb). My research focuses on computer networks and distributed systems, with my current work centered on analyzing the resiliency of the submarine cable network (SCN).
+I am a second year PhD student at [Northwestern University](https://www.northwestern.edu), working in [AquaLab](https://aqualab.cs.northwestern.edu), advised by [Prof. Fabián E. Bustamante](https://users.cs.northwestern.edu/~fabianb). My research lies at the intersection of computer networks and distributed systems, with an emphasis on Internet measurement and resilience. I study how large-scale network infrastructures respond to failures, with current work focused on analyzing the resiliency of the global submarine cable network (SCN) using traceroute-based measurements and other heterogeneous data sources.
